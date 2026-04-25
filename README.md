@@ -1,4 +1,4 @@
-📊 Data Analytics Project
+📊 Customer_Behavior_Analysis Project
 🔍 Overview
 
 This project focuses on performing end-to-end data analysis to extract meaningful insights from raw data. It includes data loading, cleaning, exploratory data analysis (EDA), SQL querying, and building an interactive dashboard using Power BI. The final outcome is presented through a detailed report and presentation.
